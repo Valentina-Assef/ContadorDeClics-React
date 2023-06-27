@@ -25,11 +25,12 @@ body {
   align-items: center;
   justify-content: center;
   margin: 20px;
-  background-color: white;
+  background-color: #1b1b32;
 }
 
 .logo {
   height: 150px;
+  background-color: transparent;
 }
 
 .contenedor-contador {
