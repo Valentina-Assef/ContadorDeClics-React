@@ -1,2 +1,4 @@
-# contador-de-clics-React
-Contador de clics desarrollado con React.js
+# Contador de clics 
+## Desarrollado con React.js
+
+![](./contador-de-clics/src/imagenes/screenshoot.png)
