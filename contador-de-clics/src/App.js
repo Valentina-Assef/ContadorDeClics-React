@@ -17,7 +17,6 @@ class App extends React.Component {
   }
 
   /* Metodos */
-  /* 1° Opcion */
   manejarClic() {
     this.setState(({ numClics }) => ({ numClics: numClics + 1 }));
   }
